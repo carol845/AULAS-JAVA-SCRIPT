@@ -1,0 +1,9 @@
+let turma01 =[
+// 0          1       2     3
+ ['yasmin','Carol','Duda','Carla'], //0
+ ['Giovana','Carlos','Manu','Pyetra'], //1
+ ['Igor','Julia','Grazi','Ritinha'], //2
+ ['Emerson','Gabriel','Karla','Eva'], //3
+]
+
+console.log(turma01 [2][3]);
